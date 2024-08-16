@@ -1,0 +1,43 @@
+{
+    "recipes": [
+        {
+            "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+            "title": "Overnight Oats com Chia e Frutas",
+            "description": "Que tal um lanchinho pra começar bem a manhã? Uma receitinha incrível, hiper gostosa e perfeita para repor as energias e não sair da dieta.",
+            "ingredients": [
+                {
+                    "description": "2 Col. de sopa de Aveia em flocos (30g)⁣"
+                },
+                {
+                    "description": "1 Copo de Leite (200ml)"
+                },
+                {
+                    "description": "2 Col. de sopa de Chia (30g)⁣⁣⁣"
+                },
+                {
+                    "description": "Frutas, Granola e Pasta de Amendoim à gosto, para complementar.⁣⁣⁣"
+                }
+            ],
+            "prepareMode": [
+                {
+                    "description": "Em um recipiente adicione a aveia, o leite vegetal e a chia. Misture muito bem."
+                },
+                {
+                    "description": "Tampe, e deixe na geladeira durante a noite."
+                },
+                {
+                    "description": "No outro dia, faça camadinhas dessa mistura e recheando com frutas picadas no meio. (Você também pode levar as frutas ao fogo numa panela para reduzir e ficar como se fosse uma geleia)."
+                },
+                {
+                    "description": "Finalize com granola, pasta de amendoim ou como quiser."
+                }, 
+                {
+                    "description": "Rende 2 porções."
+                }
+            ],
+            "category": "Doce",
+            "photo": "https://vidaveg.com.br/wp-content/themes/yootheme/cache/3e/123416160_1023396941434036_953244644426574407_n-e1608731338252-3e47893e.jpeg",
+            "videoTutorial": "https://www.youtube.com/watch?v=vv9qhLLnwyw"
+        }
+    ]
+}

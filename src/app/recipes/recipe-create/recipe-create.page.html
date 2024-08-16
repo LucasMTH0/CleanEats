@@ -1,0 +1,13 @@
+<ion-content [fullscreen]="true">
+  <form
+    class="form-container"
+    [formGroup]="recipeFormRegister" 
+    (submit)="handleCreateRecipe()"
+  >
+    <input type="text" formControlName="title" placeholder="Título" />
+    <input type="text" placeholder="Categoria"  formControlName="category"/>
+    <textarea placeholder="Descrição" formControlName="description"></textarea>
+    <input type="text" formControlName="videoTutorial" placeholder="Link do vídeo de explicação"/>
+    <ion-button type="submit">Cadastrar</ion-button>
+  </form>
+</ion-content>
