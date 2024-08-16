@@ -1,0 +1,7 @@
+{
+  "name": "CleanEats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
